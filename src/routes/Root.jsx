@@ -5,7 +5,9 @@ function Root() {
     return (<div>
         <Header />
         <Outlet />
+
     </div>);
+
 }
 
 export default Root;
